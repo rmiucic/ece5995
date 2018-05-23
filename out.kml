@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<!-- 
+
+TimeStamp is recommended for Point.
+
+Each Point represents a sample from a GPS.
+
+-->
+
+  <Document>
+    <name>Points with TimeStamps</name>
+	<Style id="sn_cabs3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_cabs3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.816667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_cabs3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cabs3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cabs3</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<Style id="sn_cabs2">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_cabs2">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>0.816667</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_cabs2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cabs2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cabs2</styleUrl>
+		</Pair>
+	</StyleMap>
+
+	<StyleMap id="msn_cabs1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cabs1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cabs1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_cabs1">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_cabs1">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cabs.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+<Placemark><TimeStamp><when>2015-03-29T17:10:21Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11315,42.533842,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:23Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113196,42.533972999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:25Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113281,42.534103,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:27Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113439,42.534197,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:29Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11359399999999,42.534184,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:31Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113817,42.534169,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:33Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.114073,42.534162,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:35Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.114362,42.534158000000005,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:37Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.114672,42.534153,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:39Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11496899999999,42.534131,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:41Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115266,42.534108,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:43Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115525,42.534078,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:45Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115825,42.534061,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:47Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116174,42.534023,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:49Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116405,42.534098,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:51Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116679,42.534037,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:53Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11717900000001,42.534014,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:55Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11744499999999,42.534048999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:57Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11764699999999,42.534045,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:10:59Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117819,42.534012,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:01Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118013,42.534022,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:03Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11810600000001,42.534071000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:05Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118072,42.534067,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:07Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118065,42.53412,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:09Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11805,42.534084,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:11Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118043,42.534078,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:13Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117989,42.534064,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:15Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118015,42.534052,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:17Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118014,42.53403,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:19Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118011,42.534017999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:21Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11800699999999,42.534007,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:23Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118001,42.534009000000005,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:25Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118001,42.534015999999994,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:27Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11800500000001,42.534017999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:29Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11800600000001,42.534019,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:31Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11800699999999,42.534019,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:33Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11800699999999,42.534019,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:35Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11800799999999,42.534017999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:37Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118009,42.534017999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:39Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11801,42.534017,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:41Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118011,42.534017,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:43Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11806800000001,42.533984999999994,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:45Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118256,42.533834000000006,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:47Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118308,42.533623999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:49Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118338,42.533390000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:51Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118346,42.53314,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:53Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11825400000001,42.532868,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:55Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118034,42.532629,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:57Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11774100000001,42.532404,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:11:59Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117408,42.53222,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:01Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117115,42.531982,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:03Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116855,42.531688,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:05Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116608,42.531401,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:07Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116394,42.531071000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:09Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116271,42.530678,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:11Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116258,42.530288,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:13Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116227,42.529903999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:15Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116192,42.529491,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:17Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116138,42.529069,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:19Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116075,42.528621,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:21Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116062,42.528164000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:23Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11604200000001,42.527685,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:25Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116003,42.527206,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:27Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115978,42.526718,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:29Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11594000000001,42.526216,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:31Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11592900000001,42.525690999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:33Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115943,42.525179,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:35Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115911,42.52466,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:37Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115886,42.524149,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:39Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115873,42.52363,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:41Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115815,42.523115000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:43Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115798,42.522611,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:45Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115762,42.522094,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:47Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115773,42.52159,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:49Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11576600000001,42.52107,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:51Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115747,42.520573,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:53Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115702,42.52006,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:55Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115697,42.51954,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:57Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115657,42.519009000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:12:59Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115654,42.51848,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:01Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115623,42.517956,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:03Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11559399999999,42.517410999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:05Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115555,42.516871,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:07Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115564,42.516329999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:09Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115538,42.515782,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:11Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115515,42.515233,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:13Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115498,42.514668,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:15Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11547,42.514119,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:17Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11545,42.513565,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:19Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115422,42.513011,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:21Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115426,42.512451,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:23Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115387,42.511893,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:25Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115342,42.511334000000005,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:27Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11535500000001,42.510803,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:28Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115291,42.510493,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:30Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115296,42.509908,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:32Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11525300000001,42.509324,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:34Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115218,42.508747,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:35Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115193,42.50845,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:37Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11516800000001,42.507859,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:39Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115165,42.507288,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:41Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115094,42.506710999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:43Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11507900000001,42.506155,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:45Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115059,42.50561,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:47Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11503,42.505075,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:49Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115026,42.504546000000005,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:51Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115032,42.504017,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:53Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115178,42.503521,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:55Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11535500000001,42.503021999999994,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:57Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115673,42.502543,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:13:59Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115964,42.502043,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:01Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116338,42.501560999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:03Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116664,42.501092,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:05Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116968,42.500563,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:07Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117277,42.500082,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:09Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117492,42.499519,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:11Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11760500000001,42.498927,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:13Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117726,42.498384,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:15Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11752299999999,42.497782,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:17Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117511,42.497203999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:19Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117411,42.496628,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:21Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117362,42.496066,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:23Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117345,42.495517,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:25Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11731400000001,42.494966,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:27Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117288,42.494433,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:29Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117238,42.493897,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:31Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117176,42.493384000000006,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:33Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11710699999999,42.49287,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:35Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117018,42.492367,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:37Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116865,42.491859999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:39Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11670699999999,42.491337,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:41Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11655,42.490809000000006,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:43Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116407,42.490286,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:45Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116263,42.489826,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:47Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.116147,42.489309999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:49Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11590799999999,42.488803000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:51Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115627,42.488309,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:53Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115593,42.487843,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:55Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115448,42.487347,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:57Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115267,42.486831,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:14:59Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11509699999999,42.486321999999994,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:01Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.114946,42.485809,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:03Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.114736,42.485262,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:04Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.114648,42.485015999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:06Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11443299999999,42.484488,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:08Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.114254,42.483979999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:10Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.114024,42.483493,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:12Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113854,42.482981,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:14Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11368900000001,42.482471000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:15Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113628,42.482215999999994,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:17Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113514,42.481725,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:19Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11330699999999,42.481196999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:21Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113129,42.480714,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:23Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113001,42.480242,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:25Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.112904,42.479782,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:27Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.112799,42.479267,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:29Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.112847,42.478797,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:31Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113043,42.478352,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:33Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113191,42.477934999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:35Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113422,42.477532000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:37Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.113776,42.477218,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:39Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.114073,42.476966,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:40Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.114337,42.476873,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:42Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.114822,42.47677,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:44Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11542299999999,42.476657,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:46Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.115963,42.476571,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:48Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11653299999999,42.476482,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:50Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117145,42.476389000000005,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:52Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.117725,42.476361,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:54Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.11832199999999,42.476318,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:56Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.118961,42.476306,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:15:58Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.119639,42.476276,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:00Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.120335,42.47627,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:02Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.12109699999999,42.476338,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:04Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.121792,42.476223,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:06Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.122519,42.476191,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:08Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.123172,42.476310999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:10Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.123968,42.476299,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:12Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.124735,42.476258,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:14Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.125567,42.476221,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:16Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.12631800000001,42.476203999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:18Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.12710799999999,42.476168,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:20Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.127909,42.476139,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:22Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.12870600000001,42.476121,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:24Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.129515,42.476141,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:26Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.130297,42.476145,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:28Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.131149,42.476098,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:30Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.131968,42.476044,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:32Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.132759,42.476017999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:34Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.133528,42.476007,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:36Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.13424300000001,42.475974,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:38Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.134913,42.475947999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:40Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.13558499999999,42.475933000000005,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:42Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.136245,42.475887,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:44Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.136911,42.475802,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:46Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.137628,42.475714,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:48Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.138372,42.475626,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:50Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.139098,42.475547999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:52Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.139849,42.475479,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:54Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.140642,42.475390000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:56Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.141378,42.475426,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:16:58Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.142162,42.4754,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:00Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.14295,42.47538,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:02Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.14373,42.475333,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:04Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.14452299999999,42.47533,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:06Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.145301,42.475312,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:08Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.146061,42.475302,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:10Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.146821,42.475277,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:12Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.147596,42.475246000000006,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:14Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.148352,42.475148,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:16Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.149102,42.475035,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:18Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.149847,42.474918,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:20Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.150623,42.474804,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:21Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.15100600000001,42.474769,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:23Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.15177299999999,42.474733,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:25Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.15256600000001,42.474699,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:27Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.153377,42.474678999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:29Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.154168,42.474644,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:31Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.154948,42.474636,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:33Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.155726,42.474618,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:35Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.156502,42.474573,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:37Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.157276,42.474559,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:39Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.158068,42.474552,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:41Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.158847,42.474529,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:43Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.15964,42.474526000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:45Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.160415,42.474489,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:47Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.161236,42.474471,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:49Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.162008,42.474477,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:51Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.16277600000001,42.474525,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:53Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.163503,42.474647,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:55Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.164265,42.474712,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:57Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.16502,42.474834,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:17:59Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.165782,42.474886,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:01Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.166588,42.474938,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:03Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.167376,42.475014,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:05Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.16815,42.474982000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:07Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.168947,42.474957,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:09Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.169751,42.474928999999996,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:11Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.17053100000001,42.474882,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:13Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.171329,42.474878000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:15Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.172111,42.474888,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:17Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.172885,42.474879,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:19Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.173694,42.474864000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:21Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.17443399999999,42.474786,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:23Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.175207,42.474841999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:25Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.175989,42.47487,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:27Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.176778,42.474833000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:29Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.177598,42.474790000000006,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:31Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.178388,42.474752,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:33Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.179177,42.474738,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:35Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.17997199999999,42.474732,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:37Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.180774,42.474714,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:39Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.181601,42.474688,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:41Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.18241,42.474654,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:43Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.18316999999999,42.474633000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:45Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.18395500000001,42.474598,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:47Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.184737,42.474589,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:49Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.185518,42.474554,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:51Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.186269,42.474573,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:53Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.187049,42.474636,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:55Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.187782,42.474732,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:57Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.188512,42.474933,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:18:59Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.189226,42.475175,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:01Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.189922,42.475466,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:02Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.190258,42.475608,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:04Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.190962,42.475913,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:06Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.19165500000001,42.476208,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:11Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.193102,42.476933,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:13Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.194126,42.477103,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:15Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.194924,42.477244,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:17Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.195715,42.477394,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:25Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.198904,42.477090999999994,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:28Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.20006,42.477019,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:30Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.200815,42.477046,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:32Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.201588,42.477105,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:34Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.202322,42.477253999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:36Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.203125,42.477445,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:38Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.20384,42.477729,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:40Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.20451899999999,42.478041999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:42Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.205105,42.478434,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:44Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.205651,42.478846999999995,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:47Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.206384,42.479531,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:51Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.207133,42.480604,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:52Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.20789599999999,42.481212,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:54Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.207392,42.481424,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:55Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.20742299999999,42.481706,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:57Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.207484,42.482392,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:19:59Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.207605,42.483012,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:20:01Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.20772099999999,42.483594000000004,0</coordinates></Point></Placemark>
+<Placemark><TimeStamp><when>2015-03-29T17:20:03Z</when></TimeStamp><styleUrl>#msn_cabs1</styleUrl><Point><coordinates>-83.207914,42.484188,0</coordinates></Point></Placemark>
+</Document>                                                                                                           
+</kml>
